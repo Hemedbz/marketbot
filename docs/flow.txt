@@ -1,0 +1,4 @@
+user enters location
+check if info in db
+if yes- get it
+if not- go to url
