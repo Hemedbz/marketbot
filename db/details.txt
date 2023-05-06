@@ -1,0 +1,9 @@
+purchase:
+price
+sqft
+lot sqft
+address - parsed
+bed rooms
+bathrooms
+zestimate
+

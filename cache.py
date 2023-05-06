@@ -23,3 +23,4 @@ class Cache:
 
     def fetch(self):
         pass
+
